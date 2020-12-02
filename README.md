@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif)
+
 <!--
 **Cominis/Cominis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
